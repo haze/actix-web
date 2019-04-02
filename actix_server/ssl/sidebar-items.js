@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SslError","Ssl error combinded with service error."]],"fn":[["max_concurrent_ssl_connect","Sets the maximum per-worker concurrent ssl connection establish process."]],"struct":[["OpensslAcceptor","Support `SSL` connections via openssl package"],["RustlsAcceptor","Support `SSL` connections via rustls package"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Path","Resource path match information"],["PathDeserializer",""],["ResourceDef","ResourceDef describes an entry in resources table"],["ResourceInfo","Information about current resource"],["Router","Resource router."],["RouterBuilder",""],["Url",""]],"trait":[["Resource",""],["ResourcePath",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["get","#[get(\"path\")] attribute"],["post","#[post(\"path\")] attribute"],["put","#[put(\"path\")] attribute"]]});

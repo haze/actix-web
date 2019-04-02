@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Compress","`Middleware` for compressing response body."],["Decompress","`Middleware` for decompressing request's payload. `Decompress` middleware must be added with `App::chain()` method."]],"trait":[["BodyEncoding","Helper trait that allows to set specific encoding for response."]]});
